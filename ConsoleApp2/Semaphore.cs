@@ -2,16 +2,12 @@
 namespace ConsoleApp2
 {
   
-    enum DaysOfWeek : byte
+    enum Semaphore : int
     {
-        Monday = 1,
-        Tuesday ,
-        Wednesday , 
-        Thursday ,
-        Friday ,
-        Saturday ,
-        Sunday,
-       
+        Red = 100,
+        Yellow = 200,
+        Green = 300,
+
     }
    
 }
