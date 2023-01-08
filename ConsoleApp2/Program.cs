@@ -13,6 +13,7 @@
             Console.WriteLine("Мне " + MyAge);
             Console.WriteLine("Есть ли у меня живность в доме? " + MyPet);
             Console.WriteLine("Мой размер ноги " + MyShoeSize);
+
         }
     }
 }
